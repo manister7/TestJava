@@ -1,7 +1,6 @@
 <html>
 <body>
-<h1>Welcome to Mcorp, We change your World </h1>
-<h2> Deployment of my Tomcat </h2>
+<h2> CI/CD pipeline with Java and Tomcat </h2>
 <h3> Congratulations </h3>
 </body>
 </html>
